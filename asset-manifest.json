@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tapasya_enterprises/static/css/main.ed67801c.css",
+    "main.js": "/tapasya_enterprises/static/js/main.8cc450d1.js",
+    "index.html": "/tapasya_enterprises/index.html",
+    "main.ed67801c.css.map": "/tapasya_enterprises/static/css/main.ed67801c.css.map",
+    "main.8cc450d1.js.map": "/tapasya_enterprises/static/js/main.8cc450d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed67801c.css",
+    "static/js/main.8cc450d1.js"
+  ]
+}
